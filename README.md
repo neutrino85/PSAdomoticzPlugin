@@ -1,4 +1,4 @@
-"""# Plugin Domoticz —  PSA Car Controller
+# Plugin Domoticz —  PSA Car Controller
 
 Plugin Python pour Domoticz permettant de superviser et contrôler une voiture PSA
 via [psa_car_controller](https://github.com/flobz/psa_car_controller) de flobz.
