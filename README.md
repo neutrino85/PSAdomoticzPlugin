@@ -34,7 +34,7 @@ Puis dans Domoticz :
 |---|---|---|
 | Adresse IP | IP de psa_car_controller | `192.168.15.251` |
 | Port | Port HTTP | `5000` |
-| VIN | Numéro VIN du véhicule | `VR3UHZKXZKT099823` |
+| VIN | Numéro VIN du véhicule | `VR3UHZKXZKT0XXXXX` |
 | Intervalle polling | En minutes | `5` |
 | Début LOA | Date de livraison (jj/mm/aaaa) | `17/12/2024` |
 | Forfait km/an | Kilométrage annuel LOA | `10000` |
